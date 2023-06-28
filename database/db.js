@@ -1,7 +1,0 @@
-exports.antilinkDB = require('queen_amdi_core/database/antilinkDB')
-exports.ban_jidDB = require('queen_amdi_core/database/jid_banDB')
-exports.greetingsDB = require('queen_amdi_core/database/greetingsDB')
-exports.grpSetDB = require('queen_amdi_core/database/group_settingsDB')
-exports.miscDB = require('queen_amdi_core/database/miscDB')
-exports.rateDB = require('queen_amdi_core/database/ratingsDB')
-exports.settingsDB = require('queen_amdi_core/database/settingsDB')
